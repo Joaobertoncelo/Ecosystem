@@ -16,20 +16,30 @@ Ecosystem.java - the main class that initializes and runs the ecosystem simulati
 Insect.java - the base class for all insects in the ecosystem
 
 Ant.java - a subclass of Insect that represents an ant
+
 Bee.java - a subclass of Insect that represents a bee
+
 Butterfly.java - a subclass of Insect that represents a butterfly
+
 Predator.java - a subclass of Insect that represents a predator
+
 Prey.java - a subclass of Insect that represents a prey
+
 Plant.java - a class that represents a plant in the ecosystem
+
 WaterBody.java - a class that represents a water body in the ecosystem
+
 src/test/java/com/example/ecosystem - contains the unit tests for the ecosystem simulation
+
 README.md - the file you're reading right now
 
 # Getting Started
 To run the project, you need to have Java and an IDE installed on your system. Here are the steps to get started:
 
 Clone the repository to your local machine
+
 Open the project in your IDE
+
 Build and run the Ecosystem class
 
 # Contributing
