@@ -10,8 +10,11 @@ The insects in the ecosystem move based on their movement behavior, which is def
 The project is structured as follows:
 
 src/main/java/com/example/ecosystem - contains the source code for the ecosystem simulation
+
 Ecosystem.java - the main class that initializes and runs the ecosystem simulation
+
 Insect.java - the base class for all insects in the ecosystem
+
 Ant.java - a subclass of Insect that represents an ant
 Bee.java - a subclass of Insect that represents a bee
 Butterfly.java - a subclass of Insect that represents a butterfly
